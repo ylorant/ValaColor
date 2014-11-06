@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ValaColor
+GenericName=Color picker
+Comment=Pick some colors
+Categories=GNOME;GTK;Graphics;
+Exec=valacolor
+Icon=gcolor2
+Terminal=false
+Type=Application
+X-GNOME-Keywords=Color;Picker;
